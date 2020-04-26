@@ -1,5 +1,9 @@
 # esx_vehicleshop
 
+## What can this do?
+
+* He is almost the same as the original author, except that I modified the functions of the two professions so that their bosses can come here to buy their company vehicles.
+
 ## Requirements
 
 * Auto mode (everyone can buy vehicles from the dealer)
